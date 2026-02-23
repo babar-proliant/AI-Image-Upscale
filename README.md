@@ -1,4 +1,4 @@
-# AI Image Up-Scale 4x
+# AI Image Up-Scale 4x (Basic/ Minimal Features)
 A powerful desktop application designed to upscale low-resolution images by up to 4x using advanced AI models. It features a user-friendly GUI with image filtering, background removal, and face enhancement capabilities. Enhance your old photos just in 2 clicks. Professional re-touching of small sized digital memories.
 
 🌟 **Key Features**
